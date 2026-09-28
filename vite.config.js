@@ -8,5 +8,5 @@ import react from '@vitejs/plugin-react'
 // the README explains exactly when and how.
 export default defineConfig({
   plugins: [react()],
-  base: '/REPO_NAME/',
+  base: '/modifier-archive/',
 })
